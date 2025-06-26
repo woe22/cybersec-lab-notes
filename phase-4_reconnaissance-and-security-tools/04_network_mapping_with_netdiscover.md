@@ -1,4 +1,4 @@
-# 02_network_mapping_with_netdiscover.md
+# 04_network_mapping_with_netdiscover.md
 
 ---
 
